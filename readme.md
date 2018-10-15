@@ -3,7 +3,7 @@
 > 之前博客均记录在[博客园](https://www.cnblogs.com/ricoliu),后续将在GitHub的blog项目以issues的方式另类的开一个博客。
 
 ## 文章列表
-- [柬埔寨官网项目优化实践](https://github.com/shige8023/Blog/issues/2)
+- [新公司官网项目优化实践（Vue）](https://github.com/shige8023/Blog/issues/2)
 - [为什么控制台console.log总会多一个undefined](https://github.com/shige8023/Blog/issues/1)
 - [本地缓存localstorage使用](https://www.cnblogs.com/ricoliu/p/5868728.html)
 - [关于如何给数字排序](https://www.cnblogs.com/ricoliu/p/5881658.html)
