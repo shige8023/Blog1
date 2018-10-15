@@ -1,6 +1,7 @@
 # 博客首页
 
 ## 文章列表
+- [为什么控制台console.log总会多一个undefined](https://github.com/shige8023/Blog/issues/1)
 - [本地缓存localstorage使用](https://www.cnblogs.com/ricoliu/p/5868728.html)
 - [关于如何给数字排序](https://www.cnblogs.com/ricoliu/p/5881658.html)
 - [理解JavaScript之闭包](https://www.cnblogs.com/ricoliu/p/5964873.html)
